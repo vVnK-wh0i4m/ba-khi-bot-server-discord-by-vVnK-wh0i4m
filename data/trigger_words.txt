@@ -1,0 +1,122 @@
+# Danh sách bắt "có đứa đang chửi bot".
+#
+# [strict] = so khớp trên text GIỮ NGUYÊN dấu.
+#            Dùng cho từ mà nếu bỏ dấu sẽ đụng từ vô tội:
+#            lồn/lớn, chó/cho, ngu/ngủ, bò/bo, dâm/dam...
+# [loose]  = so khớp sau khi bỏ dấu + bỏ ký tự lạ + gom ký tự lặp.
+#            Dùng cho viết tắt, vốn dĩ ai cũng gõ không dấu.
+#
+# Cả hai đều so theo RANH GIỚI TỪ nên "cc" không dính vào "acc".
+# Thêm/bớt thoải mái, bot đọc lại file mỗi lần khởi động.
+
+[strict]
+lồn
+cái lồn
+con lồn
+buồi
+cặc
+chó
+con chó
+đồ chó
+chó đẻ
+óc chó
+đầu buồi
+súc vật
+đồ súc vật
+ngu
+đồ ngu
+thằng ngu
+con ngu
+ngu như bò
+đần độn
+đần
+ngáo
+mất dạy
+vô học
+đồ rác
+rác rưởi
+vô dụng
+đồ vô dụng
+thần kinh
+điên
+đồ điên
+im mồm
+câm mồm
+câm họng
+im đi
+cút
+cút đi
+biến đi
+xéo
+xéo đi
+dở hơi
+hâm
+nghiệp
+đồ bỏ đi
+phế vật
+bot rác
+bot ngu
+bot ngáo
+bot vô dụng
+dẹp đi
+tắt máy đi
+gỡ ra đi
+
+[loose]
+dm
+dmm
+dmmm
+dcm
+dkm
+dcmm
+dmml
+vcl
+vclll
+vl
+vloz
+vailon
+vaica
+clgt
+cc
+cmm
+ccm
+dit me
+dit con me
+du me
+du ma
+dit cu
+deo
+deo co
+dcmnd
+oc cho
+occho
+suc vat
+ngu vl
+ngu vcl
+ngu nhu bo
+do ngu
+thang ngu
+con ngu
+dellll
+stfu
+shut up
+fuck you
+fuck off
+fuck u
+fk you
+wtf u
+idiot
+stupid
+stupid bot
+dumb bot
+trash bot
+useless bot
+garbage bot
+retarded
+moron
+loser
+noob bot
+shitty bot
+bot sucks
+you suck
+kys

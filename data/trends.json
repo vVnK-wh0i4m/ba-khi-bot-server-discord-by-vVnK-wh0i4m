@@ -1,0 +1,11 @@
+{
+  "updated": "2026-09",
+  "note": "Sửa file này để bot bắt trend mới. Bot tự load lại khi file đổi, không cần restart. Hoặc dùng /bakhi trend. GIỮ NGẮN — file này gửi kèm MỌI request, dài quá thì ăn hết quota Groq (free tier chỉ 8K token/phút).",
+  "teencode": [
+    "ko/hong/khum=không, đc=được, r=rồi, z/dz=vậy, j=gì, mik=mình, bt=bình thường, cx=cũng, thoy=thôi"
+  ],
+  "trends": [
+    "u là trời, ô dề, toang, flex, real/fr, ngl, bruh, no cap, sus, mid, based, gét gô, xu cà na, đỉnh nóc kịch trần"
+  ],
+  "emoji": ["💀", "😭", "🔥", "🗿", "✨", "🤡"]
+}
